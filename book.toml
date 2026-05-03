@@ -1,4 +1,9 @@
 [book]
 title = "Journal101"
 authors = ["Anindya Shiddhartha"]
+description = "de-facto journal-turned-book for the ugliest thoughts I had during my CS degree"
 language = "en"
+src = "src"
+
+[output.html.search]
+limit-results = 15
