@@ -12,7 +12,7 @@ Journal101 is not a generalized series I plan to do like a lot of other dev.to o
 
 I really did want to share my life experience more, however, and that's why I had written the first intro. But, it would've been too emotional and way too much geared towards my ADHD style. So, I guess we need to reduce that quite a bit...
 
-I've been programming for seven years now, and its surprising to tell but I've worked on apps and high-level platforms more than I've worked on low-level, systems stuff which, somehow, I want to pursue more? However, even though I have leaned more towards systems in the last two years, Journal101 will be my trajectory-correction ground for anyone who is interested in reading and learning with me.
+I've been programming for seven years now, and its surprising to tell but I've worked on apps and high-level platforms more than I've worked on low-level, systems stuff which, somehow, I want to pursue more of? However, even though I have leaned more towards systems in the last two years, Journal101 will be my trajectory-correction ground for anyone who is interested in reading and learning with me.
 
 And, this book will always be a work-in-progress read. If you are interested in elaborating on anything that's in it, consider dropping by the Discord server I'll be linking here once I'm done setting it up.
 
