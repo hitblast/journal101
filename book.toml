@@ -6,6 +6,8 @@ language = "en"
 src = "src"
 
 [output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
 git-repository-url = "https://github.com/hitblast/journal101"
 
 [output.html.search]
