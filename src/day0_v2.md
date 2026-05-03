@@ -31,3 +31,7 @@ xD -> laughing face
 \:< -> sad
 
 **some words of faith:** I used Apple Notes and Zed while writing this. Obsidian's fancy.
+
+---
+
+This book is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
