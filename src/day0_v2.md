@@ -24,7 +24,7 @@ I hope I'll be of some sense xD (oh yeah and I'll also use some text-emoticons)
 
 xD -> laughing face
 
-\:D -> happy (although my girlfriend identifies this as a shocked face)
+\:D -> happy (although a certain someone identifies this as a shocked face)
 
 ^w^ -> happy (for real this time)
 
