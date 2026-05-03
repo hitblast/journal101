@@ -5,5 +5,9 @@ description = "de-facto journal-turned-book for the ugliest thoughts I had durin
 language = "en"
 src = "src"
 
+[output.html]
+git-repository-url = "https://github.com/hitblast/journal101"
+git-repository-icon = "fa-github"
+
 [output.html.search]
 limit-results = 15
