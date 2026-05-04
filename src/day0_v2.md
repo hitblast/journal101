@@ -22,16 +22,11 @@ I hope I'll be of some sense xD (oh yeah and I'll also use some text-emoticons)
 
 **text-emoticon glossary:**
 
-xD -> laughing face
+- xD -> laughing face
+- \:D -> happy (although a certain someone identifies this as a shocked face)
+- ^w^ -> happy (for real this time)
+- \:< -> sad
 
-\:D -> happy (although a certain someone identifies this as a shocked face)
-
-^w^ -> happy (for real this time)
-
-\:< -> sad
+NOTE: This is just a part of the actual [glossary](./glossary.md). You may check it out for any term you might not understand but want to.
 
 **some words of faith:** I used Apple Notes and Zed while writing this. Obsidian's fancy.
-
----
-
-This book is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

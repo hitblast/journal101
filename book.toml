@@ -29,4 +29,4 @@ hyperlink   = true  # make hash/branch clickable when possible
 timezone = "local"   # "local" (default) | "utc" | "source" | "fixed:+02:00"
 
 [preprocessor.gitinfo.message]
-footer = "Built {{date}}{{sep}}commit: {{hash}}"
+footer = "<hr>Built {{date}}{{sep}}commit: {{hash}}<br>Licensed under <a href='https://creativecommons.org/licenses/by-sa/4.0/'>CC BY-SA 4.0</a>"

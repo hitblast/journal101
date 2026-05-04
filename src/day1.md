@@ -109,3 +109,5 @@ Maybe I was a kid, or maybe I liked showing off, but it just does not work like 
 Even reading an online book with love does wonders than reading a paperback you only thought was flashy.
 
 ---
+
+Day 1 intends to give you a flavor of what we will be doing throughout the upcoming chapters of the book, and for the next one, I already have some plans figured out. Let's hope I will not forget them by tomorrow morning. :3
