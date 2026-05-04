@@ -22,19 +22,29 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    env:
+      SCCACHE_GHA_ENABLED: "true"
+      SCCACHE_CACHE_SIZE: 2G
+      RUSTC_WRAPPER: "sccache"
+
     steps:
       - uses: actions/checkout@v6
       - uses: actions/configure-pages@v6
 
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v2
+      - run: rustup toolchain install stable --profile minimal
+
+      - uses: Swatinem/rust-cache@v2
         with:
-          mdbook-version: "latest"
+          cache-all-crates: true
+          cache-bin: true
 
-      - run: cargo install mdbook-gitinfo
+      - uses: mozilla-actions/sccache-action@v0.0.9
 
-      - name: Build mdBook documentation
-        run: mdbook build
+      - run: |
+          cargo install mdbook
+          cargo install mdbook-gitinfo
+
+      - run: mdbook build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
