@@ -31,10 +31,10 @@ jobs:
         with:
           mdbook-version: "latest"
 
+      - run: cargo install mdbook-gitinfo
+
       - name: Build mdBook documentation
         run: mdbook build
-
-      - run: cargo install mdbook-gitinfo
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
