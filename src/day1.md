@@ -84,12 +84,6 @@ Two days into stopping YouTube altogether and I'm feeling like lobotomy might be
 
 Knowing *when to stop stimulating yourself*, and *actually stopping following that* should be key. That's it. I had to put it here - and I've just put it.
 
----
+Investing in books which you will be reading is probably the dumbest way you can walk on. I mean, I get it, showing off yourself as an avid bookworm might be shiny, but at the end of the day you're wasting money. Probably, a single online book on C, and some niche tutorials might save you a few bucks and your sanity than buying one from a shop. Now, it depends- **gets interrupted by a notification*
 
-### a little bit more on the book
-
-I might reference random topics out of thin air; doesn't mean it has to correlate with the current topic *at all* - it just seems like I'm actually *better* at coordinating my ideas through randomness than a structure guideline, and I bet some of you are like this as well. It might be slightly harder to navigate topics like a lot of other chapter-driven books, but I hope you will get bored. :3
-
-I'll most likely put glossaries for each chapter (in this case, each *day*) at the end of the day as it will help me plan out what to explain and what to not. So, if you are reading in the middle of the day (I'm at GMT +06:00), you might find the glossary not in its place, which is, at the end of each chapter. In that case, you can check-in later, although I don't think it will be a topic of a lot of interest anyway.
-
-Also, these random sections of explanation might only last a day or two more.
+Oops, will continue later.
