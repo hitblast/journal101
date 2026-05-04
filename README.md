@@ -7,7 +7,7 @@ de-facto journal-turned-book for the ugliest thoughts I had during my CS degree
 
 ## Building it
 
-This book is made using [mdbook](https://github.com/rust-lang/mdbook). Make sure the [Rust toolchain](https://rust-lang.org/tools/install/) is installed and in `$PATH`, then run:
+This book is made using [mdbook](https://github.com/rust-lang/mdbook). Make sure the [Rust toolchain](https://rust-lang.org/tools/install/) is installed and in `PATH`, then run:
 
 ```bash
 cargo install mdbook
