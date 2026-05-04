@@ -84,7 +84,9 @@ Two days into stopping YouTube altogether and I'm feeling like lobotomy might be
 
 Knowing *when to stop stimulating yourself*, and *actually stopping following that* should be key. That's it. I had to put it here - and I've just put it.
 
-Investing in books which you will be reading is probably the dumbest way you can walk on. I mean, I get it, showing off yourself as an avid bookworm might be shiny, but at the end of the day you're wasting money. Probably, a single online book on C, and some niche tutorials might save you a few bucks and your sanity than buying one from a shop. Now, it depends- **gets interrupted by a notification*
+I would also like to talk about something but it might piss some audiences off.
+
+Investing in books which you will not be reading is probably the dumbest way you can walk on. I mean, I get it, showing off yourself as an avid bookworm might be shiny, but at the end of the day you're wasting money. Probably, a single online book on C, and some niche tutorials might save you a few bucks and your sanity than buying one from a shop. Now, it depends- **gets interrupted by a notification*
 
 Oops, will continue later.
 
