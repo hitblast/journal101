@@ -23,7 +23,7 @@ font-size   = "0.9em"
 separator   = " • "
 date-format = "%Y-%m-%d"
 time-format = "%H:%M:%S"
-branch      = "main"
+branch      = "master"
 hyperlink   = true  # make hash/branch clickable when possible
 
 timezone = "local"   # "local" (default) | "utc" | "source" | "fixed:+02:00"
