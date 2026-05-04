@@ -75,3 +75,13 @@ Bash is good; approved.
 **phew*
 
 Too much for the start of day 1 I guess, will probably write another hour.
+
+---
+
+3:52 PM
+
+Boredom will probably be your biggest weapon.
+
+Two days into stopping YouTube altogether and I'm feeling like lobotomy might be the best way to stop this overflow of ideas, but I don't *want it to stop.* People often struggle with finding ideas on what to make, or what to build, or what to contribute on. I guess even though a lot of this sheer lack of ideas comes from a lack of actual knowledge referenced by those ideas, we are often times a lot more stimulated now.
+
+Knowing *when to stop stimulating yourself*, and *actually stopping following that* should be key. That's it. I had to put it here - and I've just put it.
