@@ -87,3 +87,25 @@ Knowing *when to stop stimulating yourself*, and *actually stopping following th
 Investing in books which you will be reading is probably the dumbest way you can walk on. I mean, I get it, showing off yourself as an avid bookworm might be shiny, but at the end of the day you're wasting money. Probably, a single online book on C, and some niche tutorials might save you a few bucks and your sanity than buying one from a shop. Now, it depends- **gets interrupted by a notification*
 
 Oops, will continue later.
+
+7:48 PM
+
+Just came home from an interesting meetup with a certain someone, and I've realized, I need more focus than ever.
+
+Why? Well, before going out, I was thinking about a lot of stuff - some ideas to be specific. However, now that I have returned, most of the urge for actually making those ideas come to life has kind of faded. They aren't *fully* gone from my mind, but the hurry has definitely gone. So, I guess, that is one new thing to watch out for.
+
+Does not mean stuff has to be limited - I firmly believe one can still maintain perfectly healthy communication whilst juggling that with work. The limitation here is how we strategize the timing of these things.
+
+And, if you wanna play it the generic CS student way, well, your projects might never reach their peak.
+
+Anyways, so where were we back then?
+
+Oh...
+
+Hmmm, I really do not have the urge to talk about that anymore but just for continuity - it depends on *which book you precisely choose to buy*. Buying only for the goal of collection does not work. I used to buy silly cardboard comics, I remember, back when I was a kid, even I had bought a "Tom & Jerry" one, before my mum was about to go to a colleague's dinner with us. I did not really buy it for the want of reading - I unconsciously bought it out of the urge of collection.
+
+Maybe I was a kid, or maybe I liked showing off, but it just does not work like that.
+
+Even reading an online book with love does wonders than reading a paperback you only thought was flashy.
+
+---
