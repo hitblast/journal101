@@ -34,6 +34,8 @@ jobs:
       - name: Build mdBook documentation
         run: mdbook build
 
+      - run: cargo install mdbook-gitinfo
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:

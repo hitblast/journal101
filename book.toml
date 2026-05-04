@@ -12,3 +12,21 @@ git-repository-url = "https://github.com/hitblast/journal101"
 
 [output.html.search]
 limit-results = 15
+
+[preprocessor.gitinfo]
+enable = true
+
+header = false   # default: false
+footer = true    # default: true
+
+font-size   = "0.9em"
+separator   = " • "
+date-format = "%Y-%m-%d"
+time-format = "%H:%M:%S"
+branch      = "main"
+hyperlink   = true  # make hash/branch clickable when possible
+
+timezone = "local"   # "local" (default) | "utc" | "source" | "fixed:+02:00"
+
+[preprocessor.gitinfo.message]
+footer = "Built {{date}}{{sep}}commit: {{hash}}"
