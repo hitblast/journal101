@@ -10,8 +10,6 @@ Secondly, I really crave tea right now.
 
 I have been thinking since last night, that if I write in this series continuously, what will I write about in [my own blog?](https://hitblast.github.io/blog) It's kind of confusing to me that I'll have to maintain two literary folders on my computer from now on.
 
----
-
 Well, I've done a lot of talk since the intro so, let's get into the real stuff.
 
 ### so uh, how to read this book? (mandatory)
@@ -85,3 +83,13 @@ Boredom will probably be your biggest weapon.
 Two days into stopping YouTube altogether and I'm feeling like lobotomy might be the best way to stop this overflow of ideas, but I don't *want it to stop.* People often struggle with finding ideas on what to make, or what to build, or what to contribute on. I guess even though a lot of this sheer lack of ideas comes from a lack of actual knowledge referenced by those ideas, we are often times a lot more stimulated now.
 
 Knowing *when to stop stimulating yourself*, and *actually stopping following that* should be key. That's it. I had to put it here - and I've just put it.
+
+---
+
+### a little bit more on the book
+
+I might reference random topics out of thin air; doesn't mean it has to correlate with the current topic *at all* - it just seems like I'm actually *better* at coordinating my ideas through randomness than a structure guideline, and I bet some of you are like this as well. It might be slightly harder to navigate topics like a lot of other chapter-driven books, but I hope you will get bored. :3
+
+I'll most likely put glossaries for each chapter (in this case, each *day*) at the end of the day as it will help me plan out what to explain and what to not. So, if you are reading in the middle of the day (I'm at GMT +06:00), you might find the glossary not in its place, which is, at the end of each chapter. In that case, you can check-in later, although I don't think it will be a topic of a lot of interest anyway.
+
+Also, these random sections of explanation might only last a day or two more.
