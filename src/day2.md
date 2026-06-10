@@ -12,14 +12,16 @@ Anyways, I've dropped PHY111 from the list of courses for this semester, and my 
 
 All of the classes that were held today were introductory, so there really wasn't much to take from them, other than, quite literally, getting introduced to other people.
 
-These might also give you a hint of how I might be feeling right now. As, even after hating on Java for so long, I have to do it in university (mainly because the university chose this language in order to teach OOP elements properly to students, of which some they had found missing in Python).
+The CSE110 course might give you a hint of my current feeling. As, even after hating on Java for so long, I have to do it in university (mainly because the university chose this language in order to teach OOP elements properly to students, some of which they had likely **found missing in Python**). I'm really having mixed feelings about this. On one hand, I get to try [bazel](https://github.com/bazelbuild/bazel) as my build system for Java, which, *maybe will come handy later?* On the other hand, the silly nuances of Java really annoys me (like us needing to separately import the `Arrays` class only to mutate an array using `Arrays.something(overSomeArray)` - it should be `overSomeArray.something()` right? for mutating contexts).
 
-So, the initial plan, overall, is to get back to studying. *Studying in my own field.*
+Obviously, these are all personal, and rather *questionable* opinions which I would only like you to skim through and not take into account, but these might come to haunt you later down the road too, if you're learning the language.
 
-I've even attended a seminar today, on careers, which has given me some time to relax, and even though academics will be creeping in with its pressure soon, I still need to find a way to get working.
+I don't have much opinions to share on the other two courses - both seem greatly aligned for now. Plus, I get to do graphs for trigonometric equations as homework! (boring)
 
-Particularly with projects which I loved before, and now feel lazy to work on. I still do love them. I just gotta find it again.
+Anyways,
 
-Maybe I do work best at my own place. The library is pretty comfy though. Trying to get some real stuff done but as I even think of doing so, I'm getting slowly pulled into sleep (at least that's what I feel like, even if its the slightest).
+I even attended a seminar today, on careers, which has given me some time to relax, and even though academics will be creeping in with its pressure soon, I still need to find a way to get working. That is, working *in my own field*. Particularly, with projects which I loved working on before, and now feel lazy to even touch.
+
+Still got the love though so, eh, should be a matter of "when" and not "if".
 
 Oh, one more thing - maybe this entry will come to you as a time-slippage of over a month, and hopefully from now onwards these entries will be a lot more CS-oriented!

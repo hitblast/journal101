@@ -7,7 +7,7 @@ src = "src"
 
 [output.html]
 default-theme = "rust"
-preferred-dark-theme = "ayu"
+preferred-dark-theme = "rust"
 git-repository-url = "https://github.com/hitblast/journal101"
 
 [output.html.search]
