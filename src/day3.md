@@ -16,6 +16,8 @@ Then yesterday I came across [Codedex's Java curriculum!](https://www.codedex.io
 
 The `ENG102` class was half-fun half-boring; we had to do fun reading comprehension assignments throughout the entire week, and turns out I've become more vocal in terms of speaking in English frequently. The "boring" part was last day's class where ma'am started teaching us the APA citation rules/guidelines/how-tos.
 
-Oh!
+Aside of typical campus and library-roaming, I've been working with a (senior) friend to fix some bugs on the [PreConnect](https://github.com/sabbirba/preconnect) app for our university. I had added the lab filter and timetable-sorting a while ago, and he had highlighted the need for a mode-based search (choosing between labs/theory/both), so I ditched my evening getaway with friends for staying a bit longer. He also wanted the app to intelligently filter routines, as in if both the lab and either or both of the other filters are turned on, we should only filter through the lab's timetables/days, and the theory ones would be skipped. We ended up setting up a simple sorting loop for each of the cards, and I came home with it to implement a simple dropdown menu for it. Feature's on production now! (although we just fixed a bug which only took the *first* timetable and not the rest when sorting, kudos to my guy for notifying)
+
+Oh and!
 
 Bought home the [Programming Rust](https://www.oreilly.com/library/view/programming-rust-3rd/9781098176228/) (probably an early edition of it), and I kinda skipped two days of my 7-day borrow, so I need to really make the other five count. The book has some really good systems development stuff, and even though I'm kind of doubtful of its use-case in my projects *right now*, learning isn't of no loss!
