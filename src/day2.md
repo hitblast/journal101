@@ -1,5 +1,7 @@
 # Day 2 "Post-Orient"
 
+unknown AM/PM
+
 Title should be pretty self-explanatory before even starting this entry.
 
 I've skipped a ton of days, and by a ton, I mean, "last day was my university orientation" ton. I did really enjoy it however, and currently I'm sitting inside the massive library of my campus, thinking about "what to study". I have actually been away from programming for quite a while (not sure what has been bothering me, as there could be a lot of different implications to this one problem), but now I feel like I should really get *started again*, as they say, *doing something makes you want to do it more.* I'm not sure whether or not this is bogus but I personally want to believe it as a totally solvable problem.
