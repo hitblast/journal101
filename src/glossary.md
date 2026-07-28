@@ -1,4 +1,5 @@
 # Glossary
+
 (AKA things which I'm way too oblivious about)
 
 **text-emoticons:**
@@ -9,6 +10,7 @@
 - \:< -> sad
 - \:3 -> face that wants to impress (literally)
 - ;3 -> winking face
+- ;-; -> crying face (although sometimes used as a _pun_)
 
 **texts:**
 
