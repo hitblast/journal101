@@ -1,11 +1,11 @@
-# Journal101
-de-facto journal-turned-book for the ugliest thoughts I had during my CS degree
+> [!WARNING]
+> Experimentation halted, attempting next repository...
 
-## About this book
+## Journal101
 
-[Read it.](https://hitblast.github.io/journal101) It's pretty self-explanatory.
+De-facto journal-turned-book for the ugliest thoughts I had during my CS degree.
 
-## Building it
+### Building it
 
 This book is made using [mdbook](https://github.com/rust-lang/mdbook). Make sure the [Rust toolchain](https://rust-lang.org/tools/install/) is installed and in `PATH`, then run:
 
@@ -16,6 +16,6 @@ cargo install mdbook-gitinfo
 mdbook build
 ```
 
-## License
+### License
 
 This book is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
